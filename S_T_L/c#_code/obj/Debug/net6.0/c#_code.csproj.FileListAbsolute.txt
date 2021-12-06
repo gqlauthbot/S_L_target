@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\c#_code.exe
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\c#_code.deps.json
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\c#_code.runtimeconfig.json
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\c#_code.dll
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\ref\c#_code.dll
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\bin\Debug\net6.0\c#_code.pdb
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.AssemblyInfo.cs
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.dll
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\ref\c#_code.dll
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.pdb
+C:\Users\User\Desktop\PAG\PYTHON CODE\projects\time_limitor\c#_code\obj\Debug\net6.0\c#_code.genruntimeconfig.cache

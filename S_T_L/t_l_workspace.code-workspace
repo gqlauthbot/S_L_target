@@ -1,0 +1,25 @@
+
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	
+
+	"settings": {
+		"files.associations": {
+			"vector": "cpp",
+			"array": "cpp",
+			"deque": "cpp",
+			"list": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp",
+			"ranges": "cpp"
+			
+		},
+		"python.defaultInterpreterPath": "C:\\Users\\User\\Desktop\\PAG\\PYTHON CODE\\venv\\Scripts"
+	}
+}
